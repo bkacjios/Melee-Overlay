@@ -1,0 +1,4 @@
+config.lua
+*.db
+test.lua
+lsqlite3_fsl09y/
